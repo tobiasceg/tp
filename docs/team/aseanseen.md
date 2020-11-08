@@ -20,6 +20,7 @@ https://nus-cs2113-ay2021s1.github.io/tp-dashboard/#breakdown=true&search=aseans
         * Amended by [Jun You](https://github.com/AY2021S1-CS2113T-T09-2/tp/tree/master/docs/team/f0fz.md) to include a `TimeTable` object instead due to the difficulty faced during saving.
     * Implemented the commands to add and delete lessons from the timetable.
         * Created `TimeTableCommand`, `TimeTableAddCommand`, `TimeTableDeleteCommand`.
+<div style="page-break-after: always;"></div>
 * Added add/delete tasks and modules feature #17 #35 #54
     * Created `AddTaskCommand`, `AddModuleCommand`, `DeleteTaskCommand`, `DeleteModuleCommand`.
 * Added main class and exit command #40 #53

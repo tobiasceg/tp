@@ -25,6 +25,7 @@ better integrate and manage their hectic schedule.
     * What it does: Allows the user to grade modules that have been previously input and keyed into their personalised module list,
     thus allowing them to assign its module credits and the grade achieved by the user on the module. Subsequently, the user is able 
     to calculate their new Cumulative Average Point (CAP) after grading all their respective modules.
+    <div style="page-break-after: always;"></div>
     * Justification: This enhancement improves the product in a way that allows users to not only keep track of the modules taken, but
     also add the relevant details such as the module credit and grade attained for that specific module. Therefore, allowing the
     user to calculate and keep track of their new CAP after the semester has ended. 
