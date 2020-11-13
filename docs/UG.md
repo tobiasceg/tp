@@ -612,7 +612,7 @@ ra.VI will display a message saying that your lesson has been deleted.
 ```tip
 Confused by the `-` symbol? If you want to skip using certain criteria, you can use a dash (`-`) in the place of that field! For example, if you only want to filter all lessons on Monday, you could do `timetable -filter - MONDAY - - -`, only filling in the `day` field and using `-` to ignore the other fields. **Any combination of fields is possible!**
 
-Need help with the `<module> <day> <start_time> <end_time> <lesson_type>`? Refer to the [Keywords](#keywords) section to find out more!
+Need help with understanding the fields such as module, day, and so on? Refer to the [Keywords](#keywords) section to find out more!
 ```
 
 **For some context,** here is the timetable without any filtering:
