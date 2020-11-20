@@ -26,7 +26,7 @@ public class CapCommand extends Command {
     private static final double SUMMC = 4;
 
     /**
-     * Enum for the grading schematic of NUS.
+     * Enum for the grading schematic of NUS to ensure grade is correct.
      */
     private enum GradeSchematic {
         A_PLUS("A+", 5.0),
